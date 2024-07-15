@@ -1,0 +1,13 @@
+pip install pytorch-lightning==2.0.0
+pip install einops
+pip install opencv-python==4.8.0.74
+pip install matplotlib==3.7.2
+pip install omegaconf==2.4.0
+pip install albumentations==1.2.1
+pip install transformers==4.33.3
+pip install xformers==0.0.20
+pip install triton==2.0.1
+pip install open-clip-torch==2.20.0
+pip install diffusers==0.21.0
+pip install scipy==1.11.0
+conda install -c anaconda ipython -y
